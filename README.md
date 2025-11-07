@@ -32,6 +32,6 @@ University of Turin, held on Nov 24th-28th, 2025.
 - on the first day, open a terminal and clone this repository:
 
 ```
-git clone https://github.com/Course-bigDataAndML/MLCourse-2324.git
+git clone https://github.com/Course-bigDataAndML/MLCourse-2425.git
 ```
 - The Jupyter notebook documentation can be found [here](https://jupyterlab.readthedocs.io/en/stable/user/interface.html) 
